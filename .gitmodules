@@ -1,0 +1,6 @@
+[submodule "lib/exercise_git_rebase"]
+	path = lib/exercise_git_rebase
+	url = https://github.com/LabRoM-Graduacao/exercise_git_rebase.git
+[submodule "lib/exercise_git_reset_and_revert"]
+	path = lib/exercise_git_reset_and_revert
+	url = https://github.com/LabRoM-Graduacao/exercise_git_reset_and_revert.git
